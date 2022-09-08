@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Availability Form</string>
+    <string name="student_data">Student Data</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="show_data">Show Data</string>
+    <string name="delete_all">Delete All</string>
+    <string name="update">Update</string>
+    <string name="student_no">Student No.</string>
+    <string name="submit">Submit</string>
+    <string name="delete">DELETE</string>
+</resources>
